@@ -4,7 +4,7 @@ r=1000
 circle_scale=(r**2)/4
 square_scale=r**2
 
-dot=1000000
+dot=1_000_000
 sim=10
 pi_sum=0
 
